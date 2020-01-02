@@ -1,0 +1,278 @@
+*{
+    border: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-color:#F4F8FB; 
+}
+.min{
+    width: cover; 
+    height:auto;
+    
+}
+.SP{
+    color: #007BFF;
+}
+.nav-link{
+    color: #eee;
+    font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #eee;
+}
+
+.navbar-light .navbar-nav .active>.nav-link{
+    color: #eee;
+}
+.navbar-brand{
+   /* padding-left: 200px;*/
+}
+.sgin{
+    background: #eee;
+    color: #007BFF;
+    border-radius: 50px;
+    width: 100px;
+    text-align: center;
+}
+.phone{
+    padding-bottom: -30px;
+}
+.button{
+    color: #007BFF;
+}
+.modern{
+    width: 50%;
+    margin-top: 15%;
+}
+.photo
+{
+    float: right;
+}
+.navbar-brand{
+    padding-right:10%;
+}
+.containers{
+    margin-top: 15%;
+    color: #eee;
+
+}
+.btn11{
+    border-radius: 50px;
+    color: #007BFF;
+    height: 50px;
+    width: 170px;
+
+
+}
+
+.btn1{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.imgss{
+   height: 40px;
+}
+.containerss{
+    margin-top: 10%;
+}
+.icc{
+    height: 30px;
+}
+.iccc{
+    height: 50px;
+}
+.thered{
+    text-align: center;
+}
+.containersss{
+    text-align: center;
+    align-content: center;
+    margin-top: 10%;
+   
+}
+.Our{
+
+    margin-bottom: 5%;
+    font-weight: bold;
+}
+.fourth{
+    margin-top: 10%;
+    background-color: #007BFF;
+    height: auto;
+    width: cover;
+}
+.star{
+    color: #eee;
+    text-shadow: 2px 2px 2px black;
+    font-size: 30px;
+    padding: 10px;
+}
+.rowF{
+    float: left;
+}
+.immmg{
+    height:500px;
+    width: 450px;
+    margin-top: -10px;
+ 
+}
+.row2F{
+    width: 50%;
+    float: right;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding-right: 10%;
+}
+.headd4{
+   text-align: justify;
+   color: #eee;
+   margin-top: 5%;
+   
+}
+.AB{
+    flex: 0 0 50%;
+    max-width:100%;
+}
+.power{
+    margin-top: 15%;
+}
+.PR{
+    padding-left: 5%;
+    padding-right: 10%;
+    margin-top: 10%;
+}
+hr{
+   width: 70px;
+    background-color: #eee;
+    height: 1px;
+    float: right;
+    
+
+}
+.oneF{
+    text-align: right;
+}
+.lastFour{
+    margin-top: 5%;
+    text-align: right;
+    color: #eee;
+    padding-bottom: 10%;
+    padding-top: 10%;
+}
+
+.iconV{
+    float: left;
+}
+.five{
+    color: #000;
+    background-color: #f4f8fb;
+    margin-top: 10%;
+}
+.AV{
+    flex: 0 0 50%;
+    max-width:50%;
+    float: left;
+}
+.row2V{
+    float: left;
+}
+.rowV{
+    float: right;
+}
+.DDiv{
+    float: left;
+}
+.ic{
+    font-size: 15px;
+    float: left;
+    padding-top: 2%;
+    
+}
+.phones{
+    margin-bottom: -30%;
+}
+.iconV{
+    padding-top: 2%;
+}
+.dives{
+    display: flex;
+    flex-direction: column;
+}
+.Lastttt{
+    background-color:#7b68ee; 
+    margin-top: 10%;
+    height: auto;
+    padding-top: 5%;
+    color: #eee;
+    
+}
+.nn{
+    margin-top: 10%;
+}
+.rr{
+    margin-top: 30%;
+}
+.WER{
+    border: 1px solid #ccd5dc;
+    color: black;
+    font-weight: bold;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.W11{
+    font-weight: bold;
+ 
+}
+.W1{
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+.mo{
+    color:#ccd5dc;
+    font-size: 20px;
+    
+}
+.W2{
+    background-color: #f4f8fb;
+    padding: 5%;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-top: 1px solid #ccd5dc;
+}
+.btnw{
+    height: 40px;
+    width: 150px;
+    border:2px solid #007BFF;
+    border-radius: 50px;
+    color:#007BFF; 
+    font-weight: bold;
+    
+}
+
+.Wbtn{
+    margin-top: 5%;
+    outline: none;
+}
+.QQ{
+    margin-top: 10%;
+}
+.OO{
+    margin-top: 10%;
+    background-color:#007BFF; 
+   padding:10%;
+}
+.head5{
+    padding: 5%;
+}
+.bttn{
+    border-radius: 50px;
+    background-color:#eee;
+    width: 100px; 
+
+    color: #007BFF; 
+    font-weight: bold;
+    padding-bottom: -5px;
+}
